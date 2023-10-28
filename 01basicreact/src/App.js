@@ -1,8 +1,8 @@
+import Test from './Test'
 
-
-function App() {
+const App=()=>{
   return (
-    <h1>Hello Bickey | React</h1>
+    <Test/>
   );
 }
 

@@ -1,10 +1,14 @@
 import React from "react"
-
+import Test from "./test"
 
 const App=() => {
-
+  const name = 'Bickey';
   return (
-    <h1>Hello Bickey | React and Vite</h1>
+    <>
+    <Test/>
+    <h3>My name is {name}</h3>
+    </>
+    
   )
 }
 
