@@ -1,0 +1,12 @@
+
+#copy-btn:hover {
+  background-color: #3B82F6; 
+}
+
+.developed-by {
+  color: #ffffff; /* White text color */
+  text-align: center; /* Center the text */
+  margin-top: 20px; /* Adjust the top margin for spacing */
+  font-size: 18px; /* Adjust the font size as desired */
+  font-style: italic; /* Add italic style */
+}
