@@ -25,6 +25,9 @@ function App() {
       <br />
       <br />
       <button onClick={decreaseValue}>Decrease Counter</button>
+      <br />
+      <br />
+      <a href="https://github.com/BickeyManandhar/counterProject">Click here to access code.</a>
     </>
   )
 }
